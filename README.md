@@ -2,12 +2,12 @@
 A simple CNN for MNIST classification task using Pytorch
 
 ## Requirements
-Python3
-Pytorch 0.4
-numpy
-pandas
-sklearn
-skimage
+* Python3
+* Pytorch 0.4
+* numpy
+* pandas
+* sklearn
+* skimage
 
 ## Overview
 I implement a simple Lenet on Pytorch to solve the MNIST task, by using  jitter, rotate data and other
