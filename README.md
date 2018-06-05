@@ -21,6 +21,9 @@ you can also download some extra data from [Kaggle Competition](https://www.kagg
 	python3 convnet.py --epoch 10
 see python3 convnet.py -h for more options.
 
+## Pretrained Model
+Use the model in model/exp_5.pt to evaluate the model directly.
+
 ## Conclusion
 1. more data, more better your model's performance will be.
 2. distortion could improve the performance, but not significantly.
