@@ -1,5 +1,5 @@
 # coding=utf-8
-# Copyright (c) 2018 Aria-K-Alethia
+# Copyright (c) 2018 Aria-K-Alethia@github.com
 # Licence: MIT
 import os
 import struct
